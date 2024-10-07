@@ -45,3 +45,4 @@ bin32unknown/bin/riscv32-unknown-elf-c++filt filter=lfs diff=lfs merge=lfs -text
 bin32unknown/bin/riscv32-unknown-elf-elfedit filter=lfs diff=lfs merge=lfs -text
 bin32unknown/bin/riscv32-unknown-elf-gcc-ranlib filter=lfs diff=lfs merge=lfs -text
 bin32unknown/bin/riscv64-unknown-elf-size filter=lfs diff=lfs merge=lfs -text
+bin64linux/bin/* filter=lfs diff=lfs merge=lfs -text
